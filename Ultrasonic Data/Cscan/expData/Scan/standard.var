@@ -1,0 +1,91 @@
+39 - Attenuation
+24 - Attenuation1
+54 - Attenuation2
+52 - Attenuation3
+0.3535 - AttenuationChangeLevel
+0111101 - Attenuator1 Address
+0111110 - Attenuator2 Address
+00111111 - Attenuator3 Address
+1 - AvgSamplesNumber
+19200 - BioMed500 baudrate
+COM6 - BioMed500 port
+300.0 - BioMed500 voltage
+False - Gain fixed
+32 - Gain1
+15 - Gain2
+1 - GenCode
+4 - GenCodeNo
+4 - GenCodesNo
+38400 - M10-OPP300 baudrate
+COM34 - M10-OPP300 port
+30.0 - M10-OPP300 voltage
+1 - NoOfCh
+NO - Return to Zhome
+100.0 - SamplingFrequencyMHz
+19200 - Scanner baudrate
+COM10 - Scanner port
+20 - ScannerStepX
+20 - ScannerStepY
+D:/expSoftware/NewACQ_20150702/Scripts/SimpleScan_default.acq - Script
+True - Show Ch1
+False - Show Ch2
+False - Show CrossLines
+True - Show XSlice
+True - Show YSlice
+30000 - Slim
+5000 - Smax
+1945 - Smin
+100.0 - SystemFrequencyMHz
+1 - TestCycNr
+300.0 - Tlim
+50.00 - Tmax
+19.45 - Tmin
+NO - Use 3D scan
+False - Use BioMed500
+True - Use Izograf
+True - Use M10-OPP300
+False - Use SeDaq
+True - Use acquisition
+False - Use attenuator
+True - Use scanner
+True - Use voltage control
+5 - Voltage
+X+ - X axis direction
+0.01 - XBigStep
+21.06 - XHome
+16.00 - XRange
+0.00 - XSlice
+0.01 - XSmallStep
+8.0 - Xcurrent
+50.0 - Xlimit
+16.00 - Xmax
+0.00 - Xmin
+0.20 - Xstep
+129.00 - Xsteps
+Y+ - Y axis direction
+0.1 - YBigStep
+18.84 - YHome
+16.00 - YRange
+7.98 - YSlice
+0.01 - YSmallStep
+12.0 - Ycurrent
+50.0 - Ylimit
+16.00 - Ymax
+-0.00 - Ymin
+0.20 - Ystep
+129.00 - Ysteps
+Z- - Z axis direction
+1.0 - ZBigStep
+15.00 - ZHome
+0.01 - ZSmallStep
+-14.5 - Zcurrent
+89.0 - Zlimit
+4000 - Znr1
+7999 - Znr2
+#848484 - colorAxis
+#000000 - colorBgr
+#ffff00 - colorCh1
+#ff0000 - colorCh2
+0.01 - uStepX
+0.01 - uStepY
+0.005 - uStepZ

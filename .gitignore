@@ -1,0 +1,9 @@
+# Ignore Folders:
+ArthurTest/
+ECG Signal Filtering/
+Matlab_Fun/
+Pulse From Video/
+Pulse From Video Audio/
+
+# Ignore Files:
+*.LOG
